@@ -14,7 +14,8 @@ pygame.display.set_caption("can you change this mid game?")
 # have a width of 640 pixels and a height of 480 pixels. The (0,0) point will
 # be at the top left of our screen. 
 screen = pygame.display.set_mode((640, 480))
-# TODO 05: Change the window size, make sure your circle code still works.
+# TODO 05: Change the window size, make sure your circle code still works
+
 
 # This is a loop that will run forever, simply because True is always true
 while True:
