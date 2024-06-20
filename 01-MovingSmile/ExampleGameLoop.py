@@ -16,7 +16,6 @@ pygame.display.set_caption("can you change this mid game?")
 screen = pygame.display.set_mode((640, 480))
 # TODO 05: Change the window size, make sure your circle code still works
 
-
 # This is a loop that will run forever, simply because True is always true
 while True:
     # Here's another loop inside of the first loop. Notice the indentation,
