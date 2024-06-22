@@ -9,7 +9,7 @@ def main():
     pygame.init()
     clock = pygame.time.Clock()
     pygame.display.set_caption("SPACE INVADERS!")
-    screen = pygame.display.set_mode((640, 650))
+    screen = pygame.display.set_mode((800, 800))
 
     # TODO 9: Set    enemy_rows    to an initial value of 3.
     # TODO 10: Create an EnemyFleet object (called enemy_fleet) with the screen and enemy_rows
